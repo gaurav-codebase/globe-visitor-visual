@@ -4,7 +4,7 @@
   "name": "globe-visitor-visual",
   "migrations": [
     {
-      "new_sqlite_classes": ["Globe"],
+      "new_sqlite_classes": ["Visitors"],
       "new_classes": ["Globe"],
       "tag": "v1"
     }
